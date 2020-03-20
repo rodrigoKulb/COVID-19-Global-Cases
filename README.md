@@ -10,5 +10,6 @@ disponibilizo aqui a base com algumas correções para downlaod.
 http://rodrigo-kulb.com.br/corona.php
 
 
+*Referencia utilizada: https://github.com/CSSEGISandData/COVID-19
 
 
