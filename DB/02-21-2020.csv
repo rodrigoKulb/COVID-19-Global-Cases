@@ -1,0 +1,85 @@
+Province/State,Country/Region,Last Update,Confirmed,Deaths,Recovered
+Hubei,Mainland China,2020-02-21T13:03:09,62662,2144,11881
+Guangdong,Mainland China,2020-02-21T13:03:09,1333,5,690
+Henan,Mainland China,2020-02-21T13:03:10,1267,19,736
+Zhejiang,Mainland China,2020-02-21T13:03:10,1203,1,679
+Hunan,Mainland China,2020-02-21T13:03:11,1011,4,661
+Anhui,Mainland China,2020-02-21T13:03:11,988,6,539
+Jiangxi,Mainland China,2020-02-21T13:03:12,934,1,489
+Shandong,Mainland China,2020-02-21T13:03:12,749,4,281
+Diamond Princess cruise ship,Others,2020-02-21T13:03:13,634,2,1
+Jiangsu,Mainland China,2020-02-21T13:03:13,631,0,373
+Chongqing,Mainland China,2020-02-21T13:03:14,572,6,316
+Sichuan,Mainland China,2020-02-21T13:03:14,525,3,231
+Heilongjiang,Mainland China,2020-02-21T13:03:15,479,12,175
+Beijing,Mainland China,2020-02-21T13:03:15,396,4,169
+Shanghai,Mainland China,2020-02-21T13:03:16,334,2,211
+Hebei,Mainland China,2020-02-21T13:03:16,308,5,184
+Fujian,Mainland China,2020-02-21T13:03:17,293,1,149
+Guangxi,Mainland China,2020-02-21T13:03:17,246,2,97
+Shaanxi,Mainland China,2020-02-21T13:03:18,245,1,134
+,South Korea,2020-02-21T13:03:18,204,2,16
+Yunnan,Mainland China,2020-02-21T13:03:19,174,2,96
+Hainan,Mainland China,2020-02-21T13:03:19,168,4,95
+Guizhou,Mainland China,2020-02-21T13:03:20,146,2,77
+Shanxi,Mainland China,2020-02-21T13:03:20,132,0,78
+Tianjin,Mainland China,2020-02-21T13:03:21,132,3,62
+Liaoning,Mainland China,2020-02-21T13:03:21,121,1,61
+,Japan,2020-02-21T13:03:22,105,1,22
+Gansu,Mainland China,2020-02-21T13:03:22,91,2,76
+Jilin,Mainland China,2020-02-21T13:03:23,91,1,45
+,Singapore,2020-02-21T13:03:23,85,0,37
+Xinjiang,Mainland China,2020-02-21T13:03:24,76,1,24
+Inner Mongolia,Mainland China,2020-02-21T13:03:24,75,0,17
+Ningxia,Mainland China,2020-02-21T13:03:25,71,0,48
+Hong Kong,Hong Kong,2020-02-21T13:03:25,68,2,5
+,Thailand,2020-02-21T13:03:26,35,0,17
+Taiwan,Taiwan,2020-02-21T13:03:26,26,1,2
+,Malaysia,2020-02-21T13:03:27,22,0,15
+,Italy,2020-02-21T13:03:27,20,1,0
+,Iran,2020-02-21T13:03:28,18,4,0
+Qinghai,Mainland China,2020-02-21T13:03:28,18,0,18
+,Germany,2020-02-21T13:03:29,16,0,14
+,Vietnam,2020-02-21T13:03:29,16,0,14
+,France,2020-02-21T13:03:30,12,1,4
+"Ashland, NE",US,2020-02-21T13:03:30,11,0,0
+Macau,Macau,2020-02-21T13:03:31,10,0,6
+,UK,2020-02-21T13:03:31,9,0,8
+,United Arab Emirates,2020-02-21T13:03:32,9,0,4
+British Columbia,Canada,2020-02-21T13:03:32,6,0,0
+Queensland,Australia,2020-02-21T13:03:33,5,0,1
+"Travis, CA",US,2020-02-21T13:03:33,5,0,0
+From Diamond Princess,Australia,2020-02-21T13:03:34,4,0,0
+New South Wales,Australia,2020-02-21T13:03:34,4,0,4
+Victoria,Australia,2020-02-21T13:03:35,4,0,4
+,India,2020-02-21T13:03:35,3,0,3
+,Philippines,2020-02-21T13:03:36,3,1,1
+South Australia,Australia,2020-02-21T13:03:36,2,0,2
+"Toronto, ON",Canada,2020-02-21T13:03:37,2,0,2
+,Russia,2020-02-21T13:03:37,2,0,2
+,Spain,2020-02-21T13:03:38,2,0,2
+"Chicago, IL",US,2020-02-21T13:03:38,2,0,2
+"Lackland, TX",US,2020-02-21T13:03:39,2,0,0
+"San Benito, CA",US,2020-02-21T13:03:39,2,0,0
+"San Diego County, CA",US,2020-02-21T13:03:40,2,0,1
+"Santa Clara, CA",US,2020-02-21T13:03:40,2,0,1
+,Belgium,2020-02-21T13:03:41,1,0,1
+,Cambodia,2020-02-21T13:03:41,1,0,1
+"London, ON",Canada,2020-02-21T13:03:42,1,0,1
+,Egypt,2020-02-21T13:03:42,1,0,0
+,Finland,2020-02-21T13:03:43,1,0,1
+From Diamond Princess,Israel,2020-02-21T13:03:43,1,0,0
+None,Lebanon,2020-02-21T13:03:44,1,0,0
+Tibet,Mainland China,2020-02-21T13:03:44,1,0,1
+,Nepal,2020-02-21T13:03:45,1,0,1
+,Sri Lanka,2020-02-21T13:03:45,1,0,1
+,Sweden,2020-02-21T13:03:46,1,0,0
+"Boston, MA",US,2020-02-21T13:03:46,1,0,0
+"Humboldt County, CA",US,2020-02-21T13:03:47,1,0,0
+"Los Angeles, CA",US,2020-02-21T13:03:47,1,0,0
+"Madison, WI",US,2020-02-21T13:03:48,1,0,0
+"Orange, CA",US,2020-02-21T13:03:48,1,0,0
+"Sacramento County, CA",US,2020-02-21T13:03:49,1,0,0
+"San Antonio, TX",US,2020-02-21T13:03:49,1,0,0
+"Seattle, WA",US,2020-02-21T13:03:50,1,0,1
+"Tempe, AZ",US,2020-02-21T13:03:50,1,0,0

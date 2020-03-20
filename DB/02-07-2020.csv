@@ -1,0 +1,73 @@
+Province/State,Country/Region,Last Update,Confirmed,Deaths,Recovered
+Hubei,Mainland China,2020-02-07T23:43:02,24953,699,1115
+Guangdong,Mainland China,2020-02-07T23:43:02,1034,1,88
+Zhejiang,Mainland China,2020-02-07T23:43:02,1006,0,123
+Henan,Mainland China,2020-02-07T23:43:02,914,3,86
+Hunan,Mainland China,2020-02-07T23:43:03,772,0,112
+Anhui,Mainland China,2020-02-07T23:43:03,665,0,47
+Jiangxi,Mainland China,2020-02-07T23:43:03,661,0,45
+Chongqing,Mainland China,2020-02-07T23:43:03,426,2,31
+Jiangsu,Mainland China,2020-02-07T23:43:04,408,0,43
+Shandong,Mainland China,2020-02-07T23:43:04,386,0,37
+Sichuan,Mainland China,2020-02-07T23:43:04,344,1,42
+Beijing,Mainland China,2020-02-07T23:43:04,297,1,33
+Heilongjiang,Mainland China,2020-02-07T23:43:05,277,3,12
+Shanghai,Mainland China,2020-02-07T23:43:05,277,1,30
+Fujian,Mainland China,2020-02-07T23:43:05,224,0,20
+Shaanxi,Mainland China,2020-02-07T23:43:05,184,0,17
+Guangxi,Mainland China,2020-02-07T23:43:06,172,0,17
+Hebei,Mainland China,2020-02-07T23:43:06,172,1,22
+Yunnan,Mainland China,2020-02-07T23:43:06,138,0,12
+Hainan,Mainland China,2020-02-07T23:43:06,117,2,10
+Shanxi,Mainland China,2020-02-07T23:43:07,104,0,15
+Liaoning,Mainland China,2020-02-07T23:43:07,99,0,7
+Guizhou,Mainland China,2020-02-07T23:43:07,81,1,6
+Tianjin,Mainland China,2020-02-07T23:43:07,81,1,2
+Gansu,Mainland China,2020-02-07T23:43:08,67,0,9
+Jilin,Mainland China,2020-02-07T23:43:08,65,1,4
+Cruise Ship,Others,2020-02-07T23:43:08,61,0,0
+Inner Mongolia,Mainland China,2020-02-07T23:43:08,50,0,5
+Ningxia,Mainland China,2020-02-07T23:43:09,43,0,5
+Xinjiang,Mainland China,2020-02-07T23:43:09,39,0,0
+,Singapore,2020-02-07T23:43:09,30,0,0
+Hong Kong,Hong Kong,2020-02-07T23:43:09,25,1,0
+,Japan,2020-02-07T23:43:10,25,0,1
+,Thailand,2020-02-07T23:43:10,25,0,5
+,South Korea,2020-02-07T23:43:10,24,0,1
+Qinghai,Mainland China,2020-02-07T23:43:10,18,0,3
+Taiwan,Taiwan,2020-02-07T23:43:11,16,0,1
+,Germany,2020-02-07T23:43:11,13,0,0
+,Malaysia,2020-02-07T23:43:11,12,0,1
+Macau,Macau,2020-02-07T23:43:11,10,0,1
+,Vietnam,2020-02-07T23:43:12,10,0,1
+,France,2020-02-07T23:43:12,6,0,0
+Queensland,Australia,2020-02-07T23:43:12,5,0,0
+,United Arab Emirates,2020-02-07T23:43:12,5,0,0
+New South Wales,Australia,2020-02-07T23:43:13,4,0,2
+Victoria,Australia,2020-02-07T23:43:13,4,0,0
+British Columbia,Canada,2020-02-07T23:43:13,4,0,0
+,India,2020-02-07T23:43:13,3,0,0
+,Italy,2020-02-07T23:43:14,3,0,0
+,Philippines,2020-02-07T23:43:14,3,1,0
+,UK,2020-02-07T23:43:14,3,0,0
+South Australia,Australia,2020-02-07T23:43:14,2,0,0
+"Toronto, ON",Canada,2020-02-07T23:43:15,2,0,0
+,Russia,2020-02-07T23:43:15,2,0,0
+"Chicago, IL",US,2020-02-07T23:43:15,2,0,0
+"San Benito, CA",US,2020-02-07T23:43:15,2,0,0
+"Santa Clara, CA",US,2020-02-07T23:43:16,2,0,0
+,Belgium,2020-02-07T23:43:16,1,0,0
+,Cambodia,2020-02-07T23:43:16,1,0,0
+"London, ON",Canada,2020-02-07T23:43:16,1,0,0
+,Finland,2020-02-07T23:43:17,1,0,0
+Tibet,Mainland China,2020-02-07T23:43:17,1,0,0
+,Nepal,2020-02-07T23:43:17,1,0,0
+,Spain,2020-02-07T23:43:17,1,0,0
+,Sri Lanka,2020-02-07T23:43:18,1,0,0
+,Sweden,2020-02-07T23:43:18,1,0,0
+"Boston, MA",US,2020-02-07T23:43:18,1,0,0
+"Los Angeles, CA",US,2020-02-07T23:43:18,1,0,0
+"Madison, WI",US,2020-02-07T23:43:19,1,0,0
+"Orange, CA",US,2020-02-07T23:43:19,1,0,0
+"Seattle, WA",US,2020-02-07T23:43:19,1,0,0
+"Tempe, AZ",US,2020-02-07T23:43:19,1,0,0
