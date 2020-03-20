@@ -5,6 +5,10 @@ Montei esse repositorio com o objetivo de organizar e compartilhar as informaç�
 utilizando a base fornecida pelo Centro de Ciência e Engenharia da Universidade Johns Hopkins (JHU CSSE). montei um gráfico e
 disponibilizo aqui a base com algumas correções para downlaod.
 
+# Link com acesso ao Gráfico
+
+http://rodrigo-kulb.com.br/corona.php
+
 
 
 
